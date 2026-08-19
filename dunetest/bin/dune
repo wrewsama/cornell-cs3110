@@ -1,0 +1,4 @@
+(executable
+ (public_name dunetest)
+ (name main)
+ (libraries dunetest))
